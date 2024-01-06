@@ -1,0 +1,24 @@
+<html>
+    <body>
+        <table border="2">
+            <thead>
+                <tr>
+                    <td>Joystick kiri Axis X</td>
+                    <td>Joystick kiri Axis Y</td>
+                    <td>Joystick kanan Axis X</td>
+                    <td>Joystick kanan Axis Y</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>int kiri X</td>
+                    <td>int kiri Y</td>
+                    <td>int kanan X</td>
+                    <td>int kanan Y</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+    
+
+</html>
